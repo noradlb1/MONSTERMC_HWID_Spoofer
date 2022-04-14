@@ -1,0 +1,9 @@
+C:\Users\MONSTERMC\Desktop\New folder (4)\bin\Debug\MONSTERMC Spoofer.exe.config
+C:\Users\MONSTERMC\Desktop\New folder (4)\bin\Debug\MONSTERMC Spoofer.exe
+C:\Users\MONSTERMC\Desktop\New folder (4)\bin\Debug\MONSTERMC Spoofer.pdb
+C:\Users\MONSTERMC\Desktop\New folder (4)\obj\Debug\Unix Spoofer.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\New folder (4)\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder (4)\obj\Debug\Unix Spoofer.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder (4)\obj\Debug\Unix Spoofer.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\New folder (4)\obj\Debug\MONSTERMC Spoofer.exe
+C:\Users\MONSTERMC\Desktop\New folder (4)\obj\Debug\MONSTERMC Spoofer.pdb
